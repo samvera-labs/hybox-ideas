@@ -1,8 +1,10 @@
 Hydra in a Box Ideas
 ===
 
-This repository is being used to gather broad community input for [Hydra in a Box](https://wiki.duraspace.org/display/HYDRA/Hydra+In+a+Box), a partnership between the Digital Public Library of America, Stanford University, and DuraSpace. Issues that are added to this repository are intended to give the project team feedback on potential requirements for the project, and are subject to prioritization along with other sources of requirements.
+This repository is being used to gather broad community input for [Hydra in a Box](https://wiki.duraspace.org/display/HYDRA/Hydra+In+a+Box), a partnership between the Digital Public Library of America, Stanford University, and DuraSpace. Issues added to this repository are intended to give the project team feedback on potential requirements for the project, and are subject to prioritization along with other sources of requirements.
 
-We are working on providing alternative options for idea contributions offering by individuals without GitHub accounts as well. 
+To submit an idea, click on "Issues" in the panel on the right side of this page. On the next screen, click the green button labeled "New Issue", complete the simple form and then click "Submit new issue". That's it!
+
+Don't have a GitHub account? You can [sign up here](https://github.com/join). Or you can send us your ideas via email: hybox-contact@googlegroups.com. 
 
 For more information on the Hydra in a Box project, please join our [Google Group](https://groups.google.com/forum/#!forum/hybox-info).
